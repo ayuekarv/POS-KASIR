@@ -1,1 +1,1 @@
-# POS-KASIR
+# pos-kasir
